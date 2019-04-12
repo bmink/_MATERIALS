@@ -8,8 +8,8 @@
 ## Libraries
 
 ### libcurl
-* [Tutorial](https://curl.haxx.se/libcurl/c/libcurl-tutorial.html)
-* [Easy interface](https://curl.haxx.se/libcurl/c/)
+* [Tutorial](https://curl.haxx.se/libcurl/c/libcurl-tutorial.html) (Scroll down for a good easy interface intro)
+* [C API (mostly easy interface)](https://curl.haxx.se/libcurl/c/)
 * [Examples](https://curl.haxx.se/libcurl/c/example.html)
   * [Send mail with libcurl](https://curl.haxx.se/libcurl/c/smtp-mail.html)
   * [Send MIME mail with libcurl](https://curl.haxx.se/libcurl/c/smtp-mime.html)
