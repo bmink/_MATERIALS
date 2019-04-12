@@ -4,11 +4,15 @@
 * [introduction](https://guides.github.com/features/mastering-markdown/)
 * [reference](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
+
+
 ## Software
 
 ### redis
 * [Commands](https://redis.io/commands)
 * [hiredis](https://github.com/redis/hiredis): C Client -- README.md has good overview
+
+
 
 ## Libraries
 
