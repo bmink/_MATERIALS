@@ -1,3 +1,9 @@
+## Interesting Reading
+
+### C
+* [Some Were Meant for C: The Endurance of an Unmanageable Language](http://www.cl.cam.ac.uk/~srk31/research/papers/kell17some-preprint.pdf) Excellent ~~love letter to~~ essay on C
+
+
 ## Git & GitHub
 
 ### Markdown syntax
