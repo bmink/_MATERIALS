@@ -38,3 +38,6 @@
 ## Interesting Reading
 
 * [Some Were Meant for C: The Endurance of an Unmanageable Language](http://www.cl.cam.ac.uk/~srk31/research/papers/kell17some-preprint.pdf)
+
+## Misc links
+* [Introduction to soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
