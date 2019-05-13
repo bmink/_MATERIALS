@@ -41,3 +41,5 @@
 
 ## Misc links
 * [Introduction to soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
+* [1890s Paris footage colorized and speed fixed](http://digg.com/video/paris-footage-1896-colorized)
+
