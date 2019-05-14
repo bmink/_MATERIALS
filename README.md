@@ -43,6 +43,6 @@
 * [Introduction to soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
 * [1890s Paris footage colorized and speed fixed](http://digg.com/video/paris-footage-1896-colorized)
 * [Boeing might represent the greatest indictment of 21st-century capitalism](https://www.salon.com/2019/04/27/boeing-might-represent-the-greatest-indictment-of-21st-century-capitalism_partner/)
-** [Analysis by pilot / software engineer Gregory Travis](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
+  * [Analysis by pilot / software engineer Gregory Travis](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
 
 
