@@ -29,11 +29,12 @@
 * [introduction](https://guides.github.com/features/mastering-markdown/)
 * [reference](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
-
-
 ## Interesting algorithms
 
 * HyperLogLog: [description of redis implementation by antirez](http://antirez.com/news/75) with further reading links
+
+## Computing
+[Excellent introduction to and history of containerization](https://medium.com/faun/the-missing-introduction-to-containerization-de1fbb73efc5)
 
 ## Interesting Reading
 
