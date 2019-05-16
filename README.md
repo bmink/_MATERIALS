@@ -34,7 +34,7 @@
 * HyperLogLog: [description of redis implementation by antirez](http://antirez.com/news/75) with further reading links
 
 ## Computing
-[The Missing Introduction To Containerization](https://medium.com/faun/the-missing-introduction-to-containerization-de1fbb73efc5) Excellent introduction to and history of containerization
+[The Missing Introduction To Containerization](https://medium.com/faun/the-missing-introduction-to-containerization-de1fbb73efc5): Excellent introduction to and history of containerization
 
 ## Interesting Reading
 
