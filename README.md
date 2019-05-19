@@ -25,6 +25,8 @@
 
 ## Git & GitHub
 
+* [Oh, shit, git!](https://ohshitgit.com/)
+
 ### Markdown syntax
 * [introduction](https://guides.github.com/features/mastering-markdown/)
 * [reference](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
