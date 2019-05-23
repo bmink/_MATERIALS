@@ -43,6 +43,7 @@
 * [F() vs F(void) in C vs C++](http://nickdesaulniers.github.io/blog/2019/05/12/f-vs-f-void-in-c-vs-c-plus-plus/)
 * [Some Were Meant for C: The Endurance of an Unmanageable Language](http://www.cl.cam.ac.uk/~srk31/research/papers/kell17some-preprint.pdf)
 * [libmill / libdill: Go-style concurrency for C](http://libmill.org)
+* [Goto and the folly of dogma](https://manybutfinite.com/post/goto-and-the-folly-of-dogma/}
 
 ## Misc links
 * [Introduction to soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
