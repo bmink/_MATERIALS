@@ -15,6 +15,8 @@
   * [Send mail with libcurl](https://curl.haxx.se/libcurl/c/smtp-mail.html)
   * [Send MIME mail with libcurl](https://curl.haxx.se/libcurl/c/smtp-mime.html)
   * [List of all examples](https://curl.haxx.se/libcurl/c/example.html)
+ * Misc
+  * [Why They Use Curl](https://daniel.haxx.se/blog/2019/04/24/why-they-use-curl/)
 
 ### cJSON
 * [doc/examples](https://github.com/DaveGamble/cJSON/blob/master/README.md)
