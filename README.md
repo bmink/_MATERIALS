@@ -25,6 +25,7 @@
 
 ## Git & GitHub
 
+* [Git basics - the only introduction you'll ever need!](https://areknawo.com/git-basics-the-only-introduction-you-will-ever-need/)
 * [Oh, shit, git!](https://ohshitgit.com/)
 
 ### Markdown syntax
