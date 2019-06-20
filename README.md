@@ -8,6 +8,14 @@
 * [Commands](https://redis.io/commands)
 * [hiredis](https://github.com/redis/hiredis): C Client -- README.md has good overview
 
+## CLI
+
+### Reference / useful collections
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+
+### Tools
+* [jq](https://stedolan.github.io/jq/tutorial/): lightweight and flexible command-line JSON processor
+
 
 ## Libraries
 
