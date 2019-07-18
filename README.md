@@ -65,5 +65,5 @@
 * [Boeing might represent the greatest indictment of 21st-century capitalism](https://www.salon.com/2019/04/27/boeing-might-represent-the-greatest-indictment-of-21st-century-capitalism_partner/)
   * [Analysis by pilot / software engineer Gregory Travis](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
 * [The five universal laws of human stupidity](https://qz.com/967554/the-five-universal-laws-of-human-stupidity/) ([orig](http://harmful.cat-v.org/people/basic-laws-of-human-stupidity/))
-
+* [Guide to Housecat Coat Colors and Patterns](http://www.cedarseed.com/tuts/catcol-wp.html)
 
